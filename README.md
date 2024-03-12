@@ -6,5 +6,3 @@
 - 😄 Pronouns: he/him 🏳️‍🌈
 - 🎥 Fun fact: Royal Tannenbaum & Bird Cage are best movies. 
 - 🎶 Grateful Dead, Genesis, Pink Floyd, Jason Isbell, Gillian Welch, Dave Rawlings, Lucinda Williams
-
---->
