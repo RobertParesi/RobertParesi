@@ -390,13 +390,14 @@ function MenuReportBreadcrumbGo(Parms) {
                         bc.addEventListener('click', () => {
                             MenuReportsBreadcrumbsBack('2');
                         });
-                    };
-                };
-                if(localStorage.getItem("persist:breadcrumb1")) {
+                    }
+                } else {
                     let bc = document.createElement('span');
                     bc.style = 'font-size: smaller;';
                     bc.innerText = '/ ' + GroupName;
                     x.prepend(bc);
+                }
+                if(localStorage.getItem("persist:breadcrumb1")) {
 
                     let bc2 = document.createElement('button');
                     bc2.className = 'MTlink';
@@ -421,8 +422,10 @@ function MenuReportsBreadcrumbsBack(InRestore) {
         if(InRestore == '1') {
             key = key.replace('1','2');
             localStorage.removeItem(InRestore);
+            window.location.replace(SaveLocationPathName);
+        } else {
+            window.location.replace(SaveLocationPathName + '?breadcrumb=1');
         }
-        window.location.replace(SaveLocationPathName + '?breadcrumb=' + InRestore);
     }
 }
 
