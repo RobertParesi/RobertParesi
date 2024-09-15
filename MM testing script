@@ -422,7 +422,7 @@ function MenuReportsBreadcrumbsBack(InRestore) {
             key = key.replace('1','2');
             localStorage.removeItem(InRestore);
         }
-        window.location.replace(SaveLocationPathName & 'breadcrumb=' + InRestore);
+        window.location.replace(SaveLocationPathName + '?breadcrumb=' + InRestore);
     }
 }
 
