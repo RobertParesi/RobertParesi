@@ -38,7 +38,7 @@ function MM_Init() {
         a2 = 'background-color: #eaf6fd; color: rgb(61, 146, 222);';
     }
 
-    GM_addStyle('.MTlink {background-color: transparent; color: rgb(50, 170, 240); font-weight: 500; font-size: 14px; cursor: pointer; border-radius: 4px;  border-style: none; padding: 10px 1px 0px 20px; display:inline-block;}');
+    GM_addStyle('.MTlink {background-color: transparent; color: rgb(50, 170, 240); font-weight: 500; font-size: 14px; cursor: pointer; border-radius: 4px;  border-style: none; padding: 10px 10px 10px 20px; display:inline-block;}');
     GM_addStyle('.MTCheckboxClass {width: 20px; height: 20px; border-color: rgb(228, 233, 240); border-radius: 4px; border-style: solid; border-width: 1px;}');
     GM_addStyle('.dropbtn {' + a1 + '; border: none; cursor: pointer;}');
     GM_addStyle('.dropbtn:hover, .dropbtn:focus {' + a2 + '}');
@@ -398,7 +398,6 @@ function MenuReportBreadcrumbGo(Parms) {
                     x.prepend(bc);
                 }
                 if(localStorage.getItem("persist:breadcrumb1")) {
-
                     let bc2 = document.createElement('button');
                     bc2.className = 'MTlink';
                     bc2.innerText = '< Back to Group';
@@ -414,18 +413,15 @@ function MenuReportBreadcrumbGo(Parms) {
 
 function MenuReportsBreadcrumbsBack(InRestore) {
 
-    let key = 'persist:breadcrumb' + InRestore;
-    let storedStr = localStorage.getItem(key);
+    let key = 'persist:breadcrumb';
+    let storedStr = localStorage.getItem(key + InRestore);
     if(storedStr) {
         localStorage.setItem('persist:reports', storedStr);
-        localStorage.removeItem(key);
+        localStorage.removeItem(key + InRestore);
         if(InRestore == '1') {
-            key = key.replace('1','2');
-            localStorage.removeItem(InRestore);
+            localStorage.removeItem(InRestore + '2');
             window.location.replace(SaveLocationPathName);
-        } else {
-            window.location.replace(SaveLocationPathName + '?breadcrumb=1');
-        }
+        } else { window.location.replace(SaveLocationPathName + '?breadcrumb=' + InRestore);}
     }
 }
 
