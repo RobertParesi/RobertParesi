@@ -439,7 +439,7 @@ function MenuReportsTrendsDraw() {
 
     removeAllSections('div.MTTrendsContainer');
 
-    Hrow = Trend_TableC();
+    Hrow = Trend_TableContainer();
     row = Trend_TableGrid(Hrow,1,'header','',TrendQueueCol[0],TrendQueueCol[1],TrendQueueCol[2],TrendQueueCol[3],TrendQueueCol[4],TrendQueueCol[5]);
     row = Trend_DumpTotal(Hrow,2,'income','Income');
     row = Trend_DumpData(row,3,'income');
@@ -470,7 +470,7 @@ function MenuReportsTrendsDraw() {
         }
     }
 
-    function Trend_TableC() {
+    function Trend_TableContainer() {
 
         let topDiv = document.querySelector('[class*="Scroll__Root-sc"]');
         if(topDiv) {
