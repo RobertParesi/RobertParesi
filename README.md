@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RobertParesi
-- 👀 I’m interested in Grateful Dead and anything Jerry Garcia
-- 🌱 I’m currently learning Javascript
-- 🤔 Retired & bored
+- 🤔 Retired CEO (Vertical market software / hospitality & financial)
+- ✈️ Spend time traveling to concerts & shows 
+- 🥎 Softball
+- 🎯 Darts
 - 😄 Pronouns: he/him 🏳️‍🌈
-- 🎥 Fun fact: Royal Tannenbaums & Bird Cage are best movies. 
-- 🎶 Grateful Dead, Genesis, Pink Floyd, Counting Crows, Jason Isbell, Gillian Welch, Dave Rawlings, Lucinda Williams
+- 🎥 Fun fact: Royal Tannenbaums & Bird Cage are my favorite movies. 
+- 🎶 Grateful Dead, Jerry Garcia, Genesis, Pink Floyd, Counting Crows, Jason Isbell, Gillian Welch, Dave Rawlings, Lucinda Williams
