@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobertParesi
 - 🤔 Retired CEO (Vertical market software / hospitality & financial)
 - ✈️ Spend time traveling to concerts & shows
-- ☮️ Anything Grateful Dead & Jerry Garcia relatedd
+- ☮️ Anything Grateful Dead & Jerry Garcia related
 - 🥎 Softball
 - 🎯 Darts
 - 😄 Pronouns: he/him 🏳️‍🌈
