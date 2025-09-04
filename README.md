@@ -7,3 +7,6 @@
 - 😄 Pronouns: he/him 🏳️‍🌈
 - 🎥 Fun fact: Royal Tannenbaums & Bird Cage are my favorite movies. 
 - 🎶 Genesis, Pink Floyd, Counting Crows, Jason Isbell, Gillian Welch, Dave Rawlings, Lucinda Williams
+
+
+🎶 "I don't want to get on board, Big Black Train" - Lucinda Williams
