@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobertParesi
+- 👋 Hi!
 - 🤔 Retired CEO (Vertical market software / hospitality & financial)
 - ✈️ Spend time traveling to concerts & shows
 - ☮️ Anything Grateful Dead & Jerry Garcia related
