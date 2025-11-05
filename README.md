@@ -8,6 +8,5 @@
 - 🎥 Fun fact: Royal Tannenbaums & Bird Cage are my favorite movies. 
 - 🎶 Genesis, Pink Floyd, Counting Crows, Jason Isbell, Gillian Welch, Dave Rawlings, Lucinda Williams
 
-- 🎧 Recently listening to: Alabama Shakes
+- 🎧 Recently listening to: [Fotheringay 2 (1971)](https://en.wikipedia.org/wiki/Fotheringay_2)
 
-🎶 "I don't want to get on board, Big Black Train" - Lucinda Williams
