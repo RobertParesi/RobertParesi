@@ -1,4 +1,4 @@
-- 👋 Hi - About me
+👋 Hi - About me:
 - 🤔 Retired: Founder [InnQuest Software](https://www.roommaster.com/)
 - ✈️ Spend time traveling to concerts & shows
 - ☮️ Anything Grateful Dead & Jerry Garcia related
