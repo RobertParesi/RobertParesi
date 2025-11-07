@@ -1,5 +1,5 @@
 - 👋 Hi - About me
-- 🤔 Retired CEO (Vertical market software / hospitality & financial)
+- 🤔 Retired: Founder [InnQuest Software](https://www.roommaster.com/)
 - ✈️ Spend time traveling to concerts & shows
 - ☮️ Anything Grateful Dead & Jerry Garcia related
 - 🥎 Softball
