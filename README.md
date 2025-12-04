@@ -6,7 +6,7 @@
 - 🎯 Darts
 - 😄 Pronouns: he/him 🏳️‍🌈
 - 🎥 Fun fact: Royal Tannenbaums & Bird Cage are my favorite movies. 
-- 🎶 Genesis, Pink Floyd, Counting Crows, Jason Isbell, Gillian Welch, Dave Rawlings, Lucinda Williams, Steeleye Span, Sandy Denny, Oysterband.
+- 🎶 Genesis, Pink Floyd, Counting Crows, Jason Isbell, Gillian Welch, Dave Rawlings, Lucinda Williams, Steeleye Span, Sandy Denny, Oysterband, Robert Plant, Mavis Staples.
 
 - 🎧 Recently listening to: Robert Plant's new album **Saving Grace**.  It features the band Plant has been touring with since 2019 and contains ten cover versions of songs by a variety of artists.  Highly recommend!
 
