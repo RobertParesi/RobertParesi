@@ -4,10 +4,12 @@ Monarch Money Tweaks is a browser extension designed to enhance the functionalit
 
 Key Features:
 
-* Customizable User Experience: Users can adjust settings and personalize how information is displayed.
-* Enhanced Data Visualization: May include improved charts and graphs to represent financial data more clearly.
-* Trends Tracking: View and export Income & Expenses many different ways.
-* Investment Tracking: Improvements in tracking investments and portfolio performance.
+* Customizable Experience: Personalize settings to adjust information displays.
+* Enhanced Reporting: Gain insights with four new reports on Trends, Net Income, Accounts, and Investments.
+* Trends & Net Income: Income and spending many different ways with pace budgeting.
+* Accounts: Account and brokerage allocations, along with income vs. expenses.
+* Investments: Analyze portfolio allocation, holdings and performance.
+
 
 For specific details, updates, or installation guidance, [go here](https://github.com/RobertParesi/Monarch-Money-Tweaks).
 
