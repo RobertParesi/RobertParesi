@@ -19,7 +19,7 @@ For specific details, updates, or installation guidance, [go here](https://githu
 - 🎯 Darts
 - 😄 Pronouns: he/him 🏳️‍🌈
 - 🎥 Fun fact: Royal Tannenbaums & Bird Cage are my favorite movies. 
-- 🎧 Genesis, Pink Floyd, Counting Crows, Jason Isbell, Gillian Welch, Dave Rawlings, Lucinda Williams, Steeleye Span, Sandy Denny, Oysterband.
+- 🎧 Genesis, Counting Crows, Jason Isbell, Gillian Welch, Dave Rawlings, Lucinda Williams, Steeleye Span, Sandy Denny, Oysterband.
 
 ### 🎶 **Best Albums for 2025**
 
