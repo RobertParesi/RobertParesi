@@ -1,25 +1,17 @@
-## This is my Repository for **Monarch Money Tweaks**
+### 👋 This is my Repository for **Monarch Money Tweaks**
 
 Monarch Money Tweaks is a browser extension designed to enhance the functionality of the Monarch Money platform, which is a personal finance management tool. The Tweaks extension typically offers users various enhancements to improve their experience when managing finances, budgeting, and tracking investments.  There are over 1,500 users ([Google](https://chromewebstore.google.com/detail/monarch-money-tweaks/bjfcejklblacnehdgcjjlnejbdjlnohn/reviews?hl=en&authuser=0), Firefox, Safari and Microsoft Edge) 
 
 Key Features:
 
-    Customizable User Experience: Users can adjust settings and personalize how information is displayed.
-    Enhanced Data Visualization: May include improved charts and graphs to represent financial data more clearly.
-    Budgeting Tools: Features to help with setting up and monitoring budgets effectively.
-    Investment Tracking: Improvements in tracking investments and portfolio performance.
-    Integration with Other Tools: Might connect seamlessly with other financial apps and services, enhancing overall financial management.
-
-Benefits:
-
-    Streamlined Management: Helps in organizing financial information without clutter.
-    User-Friendly: Aims to make personal finance easier and more intuitive for users.
-    Real-Time Updates: Offers real-time tracking of financial metrics and metrics, allowing for better decision-making.
+* Customizable User Experience: Users can adjust settings and personalize how information is displayed.
+* Enhanced Data Visualization: May include improved charts and graphs to represent financial data more clearly.
+* Trends Tracking: View and export Income & Expenses many different ways.
+* Investment Tracking: Improvements in tracking investments and portfolio performance.
 
 For specific details, updates, or installation guidance, [go here](https://github.com/RobertParesi/Monarch-Money-Tweaks).
 
-
-👋 About me:
+### 👨‍💻 About me:
 - 🤔 Retired: Founder [InnQuest Software](https://www.roommaster.com/)
 - ✈️ Spend time traveling to concerts & shows.
 - ☮️ Anything Grateful Dead & Jerry Garcia related
