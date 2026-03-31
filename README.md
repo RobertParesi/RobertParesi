@@ -1,6 +1,6 @@
 ### 👋 This is my Repository for **Monarch Money Tweaks**
 
-Monarch Money Tweaks is a browser extension designed to enhance the functionality of the Monarch Money platform, which is a personal finance management tool. The Tweaks extension offers various enhancements to improve your experience on the [Monarch Money](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.monarch.com/&ved=2ahUKEwjQqLX2w6mRAxWFDjQIHce1I-sQFnoECA0QAQ&usg=AOvVaw1rTxqdOrxJj2fjRm9zZuIf) personal finance web application. There are over 2,500 users using this browseer extension on Google, Firefox, Safari and Microsoft Edge.
+Monarch Money Tweaks is a browser extension designed to enhance the functionality of the Monarch Money platform, which is a personal finance management tool. The Tweaks extension offers various enhancements to improve your experience on the [Monarch Money](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.monarch.com/&ved=2ahUKEwjQqLX2w6mRAxWFDjQIHce1I-sQFnoECA0QAQ&usg=AOvVaw1rTxqdOrxJj2fjRm9zZuIf) personal finance web application. There are over 3,400 users using this browseer extension on Google, Firefox, Safari and Microsoft Edge.
 
 Key Features:
 
