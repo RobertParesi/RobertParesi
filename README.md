@@ -9,4 +9,4 @@ Key Features:
 * Accounts: Account and brokerage allocations, along with income vs. expenses.
 * Investments: Analyze portfolio allocation, holdings and performance.
 
-See the official website here: https://www.paresi.net/MonarchMoneyTweaks/
+See the official MM-Tweaks website here: https://www.paresi.net/MonarchMoneyTweaks/
